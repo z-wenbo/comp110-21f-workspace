@@ -1,5 +1,5 @@
 
-"""trying out some numeric operators"""
+"""trying out some numeric operators."""
 
 __author__ = "730444340"
 

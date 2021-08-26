@@ -1,4 +1,4 @@
-"""trying out some relational operators"""
+"""trying out some relational operators."""
 
 __author__ = "730444340"
 
